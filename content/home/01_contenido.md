@@ -53,10 +53,14 @@ weight = 10
 - {{<color_blue>}}Programación modular{{</color_blue>}} (límete de 1000 horas en módulos por año)
 - **Existen relaciones de contenidos de módulos**
 ---
+##### Depedencias de contenidos entre módulos
 
-{{{< mermaid >}}
+
+<section>
+
+{{< mermaid >}}
+
 graph LR
-
 A[Programación] -->|es necesaria para| B[DWES]
 A[Programación] -->|es necesaria para| C[DWEC]
 D[Entornos de desarrollo] -->|necesita| A[Programación]
@@ -65,21 +69,26 @@ G[Lenguajes de marcas] -->|es necesaria para| H[Diseño de interfaces]
 I[Bases de datos] -->|es necesaria para| B[DWES]
 {{< /mermaid >}}
 
-----
-## Hay módulos que requieren conocimientos previos
+---
+
+
+
+
 * Para cursar el módulo de Entornos de Desarrollo
 > Estar cursando el módulo de Programación
 ---
 * Para cursar el módulo de Despliegue de Aplicaciones Web
 >Haber cursado Sistemas informáticos
  ---
-*Para cursar el módulo de Diseño de Interfaces
+* Para cursar el módulo de Diseño de Interfaces
 > Haber cursado Lenguajes de Marcas
 ----
-*Para cursar el módulo de Cliente y Servidor,
+* Para cursar el módulo de Cliente y Servidor,
 >Haber cursado Programación 
 >Haber cursado Entornos de desarrollo
 >Haber cursado  Bases de Datos
+
+</section>
 
 ---
 
@@ -93,30 +102,33 @@ I[Bases de datos] -->|es necesaria para| B[DWES]
 * No son clases para dudas, se puede preguntar
 
 ---
+#### Exámenes
 
-## Exámenes primera evaluacioín
-*Febrero*
+<section>
+
+##### Exámenes primera evaluación (Febrero)
 
 <img src="/images/primera_evaluacion.png"  alt="Primera evaluación "/>
 
 ---
-   
-# Exámenes segunda evaluación
-*Mayo*
+
+#####  Exámenes segunda evaluación (Mayo)
 <img src="/images/segunda_evaluacion.png"  alt="Primera evaluación "/>
 
 ---
-# Primera convocatoria final
-*Mayo*
+#####  Primera convocatoria final (Mayo)
 <img src="/images/primera_convocatoria.png"  alt="Primera evaluación "/>
 
 ---
 
-# Segunda convocatoria final
-*Junio*
+#####  Segunda convocatoria final (Junio)
 <img src="/images/segunda_convocatoria.png"  alt="Primera evaluación "/>
 
+</section>
+
 --- 
+:teacher: :books:
+ <section>
 
 ### Listado de profesores
 
@@ -124,7 +136,6 @@ I[Bases de datos] -->|es necesaria para| B[DWES]
 
 ---
 ### Francisco J. Pérez Aliaga
-
 * {{<color_blue>}}Programación{{</color_blue>}}
   <img src="/images/programacion.png"  alt="Primera evaluación "/>
 
@@ -138,6 +149,8 @@ I[Bases de datos] -->|es necesaria para| B[DWES]
 
 ### Rubén Manero Buey
 {{<color_blue>}}Entorno de Desarrollo{{</color_blue>}}
+<img src="/images/ruben.png"  alt="Primera evaluación "/>
+
 
 ---
 
@@ -145,25 +158,34 @@ I[Bases de datos] -->|es necesaria para| B[DWES]
 * {{<color_blue>}}Digitalización aplicada a los sectores productiovs{{</color_blue>}}   
 * {{<color_blue>}}Sistemas informáticos{{</color_blue>}}    
 * {{<color_blue>}}Desarrollo de aplicaciones en entorno Cliente{{</color_blue>}}
+ <img src="/images/juan_lanuza.png"  alt="Primera evaluación "/>
 
+  
 ---
 
 ### Lola Macipe Mateo
 * {{<color_blue>}}Formación y Orientación Laboral / Itinerario Pesonal para la profesionalidad 1{{</color_blue>}}
+ 
+<img src="/images/fol.png"  alt="Primera evaluación "/>
 
 ---
 
 ### Anna Kopeykina Fenández
 * {{<color_blue>}}Inglés 1{{</color_blue>}}
 * {{<color_blue>}}Inglés 2{{</color_blue>}}
+       <br />
+<img src="/images/ingles.png"  alt="Primera evaluación "/>
 
 ---
 
 ### Isabel Clemente Ibáñez
 * {{<color_blue>}}Empresa e iniciativa emprendedora{{</color_blue>}}
+  <img src="/images/fol.png"  alt="Primera evaluación "/>
 
 ---
 
 ### Manuel Alejandro Romero Miguel
 * {{<color_blue>}}Desarrollo Web en entorno servidor{{</color_blue>}}
 * {{<color_blue>}}Desarrollo Web en entorno cliente{{</color_blue>}}
+  <img src="/images/manuel.png"  alt="Primera evaluación "/>
+</section>

@@ -1,6 +1,6 @@
-baseURL = "https://example.com/"
+baseURL = "http://web.infenlaces.com/distancia/presentacion/"
 languageCode = "en-us"
-title = "A Hugo theme for creating Reveal.js presentations"
+title = "Presentación ciclo distancia"
 disableKinds = ["sitemap", "RSS"]
 theme = "github.com/dzello/reveal-hugo"
 # theme = "."
@@ -9,9 +9,13 @@ theme = "github.com/dzello/reveal-hugo"
 # uncomment for browsing at file:///
 # relativeURLs = true
 # uglyURLs = true
+enableEmoji = true
+
+[params.logo]
+src = "/images/logo.png"
 
 [author]
-name = "Josh Dzielak"
+name = "Manuel Romero"
 
 # currently only the unsafe mode for goldmark is supported
 
