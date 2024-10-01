@@ -12,7 +12,7 @@ theme = "github.com/dzello/reveal-hugo"
 enableEmoji = true
 
 [params.logo]
-src = "/images/logo.png"
+src = "images/logo.png"
 
 [author]
 name = "Manuel Romero"

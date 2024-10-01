@@ -21,7 +21,7 @@
         width: 15%;
       }
     </style>
-    <img id="logo" src="/images/logo.png" alt="">
+    <img id="logo" src="images/logo.png" alt="">
     
     <div class="reveal">
       <div class="slides">
@@ -119,11 +119,7 @@ The `custom.js` can be present in `static/js/custom.js`
 
 
   
-  
-
-  
-  
-
+    
   
   
 
@@ -154,7 +150,37 @@ The `custom.js` can be present in `static/js/custom.js`
   
   
 
+  
+  
 
+  
+  
+
+
+
+  
+  <script type="text/javascript" src="/distancia/presentacion/mermaid.min_16862243754454536095.js"></script>
+  <script type="text/javascript">
+    mermaid.initialize({startOnLoad: false});
+    let render = (event) => {
+      let mermaidElems = event.currentSlide.querySelectorAll('.mermaid');
+      if (!mermaidElems.length){
+          return
+      }
+      mermaidElems.forEach(mermaidElem => {
+          let processed = mermaidElem.getAttribute('data-processed');
+          if (!processed){
+              
+              mermaid.init(undefined, mermaidElem);
+          }
+      });
+    };
+    
+    render({currentSlide: Reveal.getCurrentSlide()});
+
+    Reveal.on('slidechanged', render);
+    Reveal.on('ready', render);
+  </script>
 
 
 <script type="text/javascript" src="/distancia/presentacion/js/custom.js"></script>

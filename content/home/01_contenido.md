@@ -95,7 +95,7 @@ I[Bases de datos] -->|es necesaria para| B[DWES]
 ## Horario del curso
 
 
-<img src="/images/horario.png"  alt="horario del curso"/>
+<img src="images/horario.png"  alt="horario del curso"/>
 
 * Clases cada semana o dos semanas
 * Siempre grabadas
@@ -108,21 +108,21 @@ I[Bases de datos] -->|es necesaria para| B[DWES]
 
 ##### Exámenes primera evaluación (Febrero)
 
-<img src="/images/primera_evaluacion.png"  alt="Primera evaluación "/>
+<img src="images/primera_evaluacion.png"  alt="Primera evaluación "/>
 
 ---
 
 #####  Exámenes segunda evaluación (Mayo)
-<img src="/images/segunda_evaluacion.png"  alt="Primera evaluación "/>
+<img src="images/segunda_evaluacion.png"  alt="Primera evaluación "/>
 
 ---
 #####  Primera convocatoria final (Mayo)
-<img src="/images/primera_convocatoria.png"  alt="Primera evaluación "/>
+<img src="images/primera_convocatoria.png"  alt="Primera evaluación "/>
 
 ---
 
 #####  Segunda convocatoria final (Junio)
-<img src="/images/segunda_convocatoria.png"  alt="Primera evaluación "/>
+<img src="images/segunda_convocatoria.png"  alt="Primera evaluación "/>
 
 </section>
 
@@ -132,24 +132,24 @@ I[Bases de datos] -->|es necesaria para| B[DWES]
 
 ### Listado de profesores
 
-<img src="/images/profesores.png"  alt="Primera evaluación "/>
+<img src="images/profesores.png"  alt="Primera evaluación "/>
 
 ---
 ### Francisco J. Pérez Aliaga
 * {{<color_blue>}}Programación{{</color_blue>}}
-  <img src="/images/programacion.png"  alt="Primera evaluación "/>
+  <img src="images/programacion.png"  alt="Primera evaluación "/>
 
 ---
 
 ### Samuel Moreno Sastre
 * {{<color_blue>}}Lenguaje de Marcas{{</color_blue>}}
 * {{<color_blue>}}Bases de datos{{</color_blue>}}
-  <img src="/images/samuel.png"  alt="Primera evaluación "/>
+  <img src="images/samuel.png"  alt="Primera evaluación "/>
 ---
 
 ### Rubén Manero Buey
 {{<color_blue>}}Entorno de Desarrollo{{</color_blue>}}
-<img src="/images/ruben.png"  alt="Primera evaluación "/>
+<img src="images/ruben.png"  alt="Primera evaluación "/>
 
 
 ---
@@ -158,7 +158,7 @@ I[Bases de datos] -->|es necesaria para| B[DWES]
 * {{<color_blue>}}Digitalización aplicada a los sectores productiovs{{</color_blue>}}   
 * {{<color_blue>}}Sistemas informáticos{{</color_blue>}}    
 * {{<color_blue>}}Desarrollo de aplicaciones en entorno Cliente{{</color_blue>}}
- <img src="/images/juan_lanuza.png"  alt="Primera evaluación "/>
+ <img src="images/juan_lanuza.png"  alt="Primera evaluación "/>
 
   
 ---
@@ -166,7 +166,7 @@ I[Bases de datos] -->|es necesaria para| B[DWES]
 ### Lola Macipe Mateo
 * {{<color_blue>}}Formación y Orientación Laboral / Itinerario Pesonal para la profesionalidad 1{{</color_blue>}}
  
-<img src="/images/fol.png"  alt="Primera evaluación "/>
+<img src="images/fol.png"  alt="Primera evaluación "/>
 
 ---
 
@@ -174,18 +174,18 @@ I[Bases de datos] -->|es necesaria para| B[DWES]
 * {{<color_blue>}}Inglés 1{{</color_blue>}}
 * {{<color_blue>}}Inglés 2{{</color_blue>}}
        <br />
-<img src="/images/ingles.png"  alt="Primera evaluación "/>
+<img src="images/ingles.png"  alt="Primera evaluación "/>
 
 ---
 
 ### Isabel Clemente Ibáñez
 * {{<color_blue>}}Empresa e iniciativa emprendedora{{</color_blue>}}
-  <img src="/images/fol.png"  alt="Primera evaluación "/>
+  <img src="images/fol.png"  alt="Primera evaluación "/>
 
 ---
 
 ### Manuel Alejandro Romero Miguel
 * {{<color_blue>}}Desarrollo Web en entorno servidor{{</color_blue>}}
 * {{<color_blue>}}Desarrollo Web en entorno cliente{{</color_blue>}}
-  <img src="/images/manuel.png"  alt="Primera evaluación "/>
+  <img src="images/manuel.png"  alt="Primera evaluación "/>
 </section>
