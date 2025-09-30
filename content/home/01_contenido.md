@@ -51,7 +51,7 @@ weight = 10
 
 - {{<color_blue>}}Hay módulos comunes en el DAM y DAW (primer curso){{</color_blue>}}
 - En distancia no hablaremos de {{<color_blue>}}primero y segundo{{</color_blue>}}
-- {{<color_blue>}}Programación modular{{</color_blue>}} (límete de 1000 horas en módulos por año)
+- {{<color_blue>}}Programación modular{{</color_blue>}} (de 1300 horas, incluso 100 más si van a titular.)
 - **Existen relaciones de contenidos de módulos**
 
 ---
@@ -101,9 +101,9 @@ I[Bases de datos] -->|es necesaria para| B[DWES]
 * Actualmente LOE está en extinción,éste es el último año de módulos
 * En año 2026/2027 Sería el último año para poder cursar el módulo de FCT y Proyecto
 * En LOE aparece el concepto de {{<color_green>}}Módulos dualizados{{</color_green>}}
-  * Un módulo tiene una serie de {{<color_blue>}}{{</color_blue>}}
-  * Cuando está {{<color_blue>}}dualizado{{</color_blue>}}, alguno (normalemente uno o dos) de esos **RA se adquieren en la empresa**
-  * Cuando se ha adquirido en la empresa**,la calficación del módulo será **definitiva**.
+  * Un módulo tiene una serie de **{{<color_blue>}}RA (Resultados de aprendizaje{{</color_blue>}}** que se han de que adquirir para superarlo 
+  * Cuando está **{{<color_blue>}}dualizado{{</color_blue>}}**, alguno (normalemente uno o dos) de esos **RA se adquieren en la empresa**
+  * *Cuando se ha adquirido en la empresa*,la calficación del módulo será **definitiva**.
 
 
 ---
@@ -165,67 +165,76 @@ I[Bases de datos] -->|es necesaria para| B[DWES]
 
 ---
 
-### Francisco J. Pérez Aliaga
+### Marta Guerrero
 
-* {{<color_blue>}}Programación{{</color_blue>}}
-  <img src="images/programacion.png"  alt="Primera evaluación "/>
-
----
-
-### Samuel Moreno Sastre
-
-* {{<color_blue>}}Lenguaje de Marcas{{</color_blue>}}
-* {{<color_blue>}}Bases de datos{{</color_blue>}}
-  <img src="images/samuel.png"  alt="Primera evaluación "/>
+* {{<color_green>}}Programación{{</color_green>}} 
+* {{<color_green>}}Lenguaje de Marcas{{</color_green>}}
+* {{<color_green>}}Proyecto Intermodular{{</color_green>}}
+ {{<line>}}
+ 
+  <img src="images/marta_guerrero.png"  alt="Horario Marta Guerrero"/>
 
 ---
 
-### Rubén Manero Buey
+### Javier  Fuertes
 
-{{<color_blue>}}Entorno de Desarrollo{{</color_blue>}}
-<img src="images/ruben.png"  alt="Primera evaluación "/>
+* {{<color_green>}}Desarrollo Web Entorno Cliente{{</color_green>}}
+* {{<color_green>}}Diseño de Interfaces{{</color_green>}}
+  {{<line>}}
+ 
+<img src="images/javier_fuertes.png"  alt="Horario Javier Fuertes"/>
+
+---
+
+### Luis Roche
+
+* {{<color_green>}}Despliegue de Aplicaciones Web{{</color_green>}}
+{{<line>}}
+ 
+<img src="images/luis_roche.png"  alt="Primera evaluación "/>
 
 
 ---
 
 ### Juan Lanuza Orden
 
-* {{<color_blue>}}Digitalización aplicada a los sectores productiovs{{</color_blue>}}
-* {{<color_blue>}}Sistemas informáticos{{</color_blue>}}
-* {{<color_blue>}}Desarrollo de aplicaciones en entorno Cliente{{</color_blue>}}
-  <img src="images/juan_lanuza.png"  alt="Primera evaluación "/>
+* {{<color_green>}}Digitalización aplicada a los sectores productiovs{{</color_green>}}
+* {{<color_green>}}Sistemas informáticos{{</color_green>}}
+
+ <img src="images/juan_lanuza.png"  alt="Primera evaluación "/>
 
   
 ---
 
 ### Lola Macipe Mateo
 
-* {{<color_blue>}}Formación y Orientación Laboral / Itinerario Pesonal para la profesionalidad 1{{</color_blue>}}
+* {{<color_green>}}Formación y Orientación Laboral / Itinerario Pesonal para la profesionalidad 1{{</color_green>}} (LOE/LPF)
 
-<img src="images/fol.png"  alt="Primera evaluación "/>
+<img src="images/lola_macipe.png"  alt="Horario de Lola Macipe"/>
 
 ---
 
 ### Anna Kopeykina Fenández
 
-* {{<color_blue>}}Inglés 1{{</color_blue>}}
-* {{<color_blue>}}Inglés 2{{</color_blue>}}
+* {{<color_green>}}Inglés Profesional /Inglés{{</color_green>}} (LFP/LOE)
+* {{<color_green>}}Módulo profesional optativo: Inglés{{</color_green>}}
   <br />
-  <img src="images/ingles.png"  alt="Primera evaluación "/>
+  <img src="images/anna_kopeykina.png"  alt="Horario de Anna Kopeikina"/>
 
 ---
 
-### Isabel Clemente Ibáñez
+### Oscar Alonso
 
-* {{<color_blue>}}Empresa e iniciativa emprendedora{{</color_blue>}}
-  <img src="images/fol.png"  alt="Primera evaluación "/>
+* {{<color_green>}}Itinerario Personal para la Empleabilidad II / Empresa e iniciativa emprendedora{{</color_green>}} (LPF/LOE)
+  <img src="images/oscar_alonso.png"  alt="Horario Óscar  Alonso "/>
 
 ---
 
 ### Manuel Alejandro Romero Miguel
 
 * {{<color_blue>}}Desarrollo Web en entorno servidor{{</color_blue>}}
-* {{<color_blue>}}Desarrollo Web en entorno cliente{{</color_blue>}}
-  <img src="images/manuel.png"  alt="Primera evaluación "/>
+{{<line>}}
+ 
+ <img src="images/manuel.png"  alt="Primera evaluación "/>
 
 </section>

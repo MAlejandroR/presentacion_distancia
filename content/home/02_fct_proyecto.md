@@ -5,12 +5,14 @@ weight = 20
 
 <section>
 
-#### FCT
+#### FOE/FCT
 * <p class="fragment fade-up">Las FCT es un módulo más.</p>
 * <p class="fragment fade-up">Son prácticas que se hacen en la empresa.</p>
 * <p class="fragment fade-up">No son remuneradas.</p>
 * <p class="fragment fade-up">Son un módulo más del ciclo</p>
-* <p class="fragment fade-up">Su duración es de 370 horas.</p>
+* <p class="fragment fade-up">Su duración es de 370 horas como FCT.</p>
+* <p class="fragment fade-up">Su duración es de 470 horas como FOE.</p>
+
 
 ----
 #### FCT
@@ -37,10 +39,10 @@ La concesión se realiza en el centro (Jefatura-Departamento), puede ser parcial
 
 ---
 
-##### Proyecto
+##### Proyecto 
 <section>
 
-
+* LOE (En extinción)
 * Módulo que se presenta con {{<color_green>}}todos los módulos superados{{</color_green>}}    
 * Este módulo {{<color_green>}}no se puede convalidar{{</color_green>}}   
 * El tema del proyecto lo podéis (muy aconsejado) proponer    
