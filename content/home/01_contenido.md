@@ -1,27 +1,28 @@
 +++
 weight = 10
 +++
+
 {{< slide id=included >}}
 
 ## Índice de la presentación
 
 - Presentación del ciclo
 - Presentación de profesoras y profesores
+- Modalidad de estudios LOE(Exinción)/LFP
 - Horarios, exámenes y fechas importantes
-- La nueva ley LOPE vs LOE
 - Convalidaciones y exención de FCT
 - Módulos dualizables y las prácticas en empresas
 - Nuestro centro: Un centro integrado
 - Cómo abordar estos estudios
 - Problemas más comunes
-<br>
-<br>
-
+  <br>
+  <br>
 
 ---
 {{< slide id=profesores >}}
 
 ## Tutor y Coordinador
+
 <span style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div>
     - Tutor: <strong>Juan Lanuza</strong>
@@ -37,8 +38,8 @@ weight = 10
   </div>
 </span>
 
-> **Estamos aquí para ayudarte.** 
-> 
+> **Estamos aquí para ayudarte.**
+>
 > **No dudes en contactar con nosotros ante cualquier duda.**
 
 ---
@@ -52,9 +53,10 @@ weight = 10
 - En distancia no hablaremos de {{<color_blue>}}primero y segundo{{</color_blue>}}
 - {{<color_blue>}}Programación modular{{</color_blue>}} (límete de 1000 horas en módulos por año)
 - **Existen relaciones de contenidos de módulos**
----
-##### Depedencias de contenidos entre módulos
 
+---
+
+##### Depedencias de contenidos entre módulos
 
 <section>
 
@@ -71,37 +73,60 @@ I[Bases de datos] -->|es necesaria para| B[DWES]
 
 ---
 
-
-
-
 * Para cursar el módulo de Entornos de Desarrollo
+
 > Estar cursando el módulo de Programación
 ---
+
 * Para cursar el módulo de Despliegue de Aplicaciones Web
->Haber cursado Sistemas informáticos
+
+> Haber cursado Sistemas informáticos
  ---
+
 * Para cursar el módulo de Diseño de Interfaces
+
 > Haber cursado Lenguajes de Marcas
 ----
+
 * Para cursar el módulo de Cliente y Servidor,
->Haber cursado Programación 
->Haber cursado Entornos de desarrollo
->Haber cursado  Bases de Datos
+
+> Haber cursado Programación
+> Haber cursado Entornos de desarrollo
+> Haber cursado Bases de Datos
 
 </section>
+
+---
+## Modalidad de estudios LOE(en Extinción)/LFP
+* Actualmente LOE está en extinción,éste es el último año de módulos
+* En año 2026/2027 Sería el último año para poder cursar el módulo de FCT y Proyecto
+* En LOE aparece el concepto de {{<color_green>}}Módulos dualizados{{</color_green>}}
+  * Un módulo tiene una serie de {{<color_blue>}}{{</color_blue>}}
+  * Cuando está {{<color_blue>}}dualizado{{</color_blue>}}, alguno (normalemente uno o dos) de esos **RA se adquieren en la empresa**
+  * Cuando se ha adquirido en la empresa**,la calficación del módulo será **definitiva**.
+
 
 ---
 
 ## Horario del curso
 
-
-<img src="images/horario.png"  alt="horario del curso"/>
+<table>
+<tr>
+<td>
+<img src="images/horario_LFP.png"  alt="horario del curso"/>
+</td>
+<td>
+<img src="images/horario_LOE.png"  alt="horario del curso"/>
+</td>
+</tr>
+</table>
 
 * Clases cada semana o dos semanas
 * Siempre grabadas
 * No son clases para dudas, se puede preguntar
 
 ---
+
 #### Exámenes
 
 <section>
@@ -112,16 +137,20 @@ I[Bases de datos] -->|es necesaria para| B[DWES]
 
 ---
 
-#####  Exámenes segunda evaluación (Mayo)
+##### Exámenes segunda evaluación (Mayo)
+
 <img src="images/segunda_evaluacion.png"  alt="Primera evaluación "/>
 
 ---
-#####  Primera convocatoria final (Mayo)
+
+##### Primera convocatoria final (Mayo)
+
 <img src="images/primera_convocatoria.png"  alt="Primera evaluación "/>
 
 ---
 
-#####  Segunda convocatoria final (Junio)
+##### Segunda convocatoria final (Junio)
+
 <img src="images/segunda_convocatoria.png"  alt="Primera evaluación "/>
 
 </section>
@@ -135,19 +164,24 @@ I[Bases de datos] -->|es necesaria para| B[DWES]
 <img src="images/profesores.png"  alt="Primera evaluación "/>
 
 ---
+
 ### Francisco J. Pérez Aliaga
+
 * {{<color_blue>}}Programación{{</color_blue>}}
   <img src="images/programacion.png"  alt="Primera evaluación "/>
 
 ---
 
 ### Samuel Moreno Sastre
+
 * {{<color_blue>}}Lenguaje de Marcas{{</color_blue>}}
 * {{<color_blue>}}Bases de datos{{</color_blue>}}
   <img src="images/samuel.png"  alt="Primera evaluación "/>
+
 ---
 
 ### Rubén Manero Buey
+
 {{<color_blue>}}Entorno de Desarrollo{{</color_blue>}}
 <img src="images/ruben.png"  alt="Primera evaluación "/>
 
@@ -155,37 +189,43 @@ I[Bases de datos] -->|es necesaria para| B[DWES]
 ---
 
 ### Juan Lanuza Orden
-* {{<color_blue>}}Digitalización aplicada a los sectores productiovs{{</color_blue>}}   
-* {{<color_blue>}}Sistemas informáticos{{</color_blue>}}    
+
+* {{<color_blue>}}Digitalización aplicada a los sectores productiovs{{</color_blue>}}
+* {{<color_blue>}}Sistemas informáticos{{</color_blue>}}
 * {{<color_blue>}}Desarrollo de aplicaciones en entorno Cliente{{</color_blue>}}
- <img src="images/juan_lanuza.png"  alt="Primera evaluación "/>
+  <img src="images/juan_lanuza.png"  alt="Primera evaluación "/>
 
   
 ---
 
 ### Lola Macipe Mateo
+
 * {{<color_blue>}}Formación y Orientación Laboral / Itinerario Pesonal para la profesionalidad 1{{</color_blue>}}
- 
+
 <img src="images/fol.png"  alt="Primera evaluación "/>
 
 ---
 
 ### Anna Kopeykina Fenández
+
 * {{<color_blue>}}Inglés 1{{</color_blue>}}
 * {{<color_blue>}}Inglés 2{{</color_blue>}}
-       <br />
-<img src="images/ingles.png"  alt="Primera evaluación "/>
+  <br />
+  <img src="images/ingles.png"  alt="Primera evaluación "/>
 
 ---
 
 ### Isabel Clemente Ibáñez
+
 * {{<color_blue>}}Empresa e iniciativa emprendedora{{</color_blue>}}
   <img src="images/fol.png"  alt="Primera evaluación "/>
 
 ---
 
 ### Manuel Alejandro Romero Miguel
+
 * {{<color_blue>}}Desarrollo Web en entorno servidor{{</color_blue>}}
 * {{<color_blue>}}Desarrollo Web en entorno cliente{{</color_blue>}}
   <img src="images/manuel.png"  alt="Primera evaluación "/>
+
 </section>
