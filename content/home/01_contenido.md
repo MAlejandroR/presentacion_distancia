@@ -200,6 +200,7 @@ I[Bases de datos] -->|es necesaria para| B[DWES]
 
 * {{<color_green>}}Digitalización aplicada a los sectores productiovs{{</color_green>}}
 * {{<color_green>}}Sistemas informáticos{{</color_green>}}
+  {{<line>}}
 
  <img src="images/juan_lanuza.png"  alt="Primera evaluación "/>
 
@@ -209,6 +210,7 @@ I[Bases de datos] -->|es necesaria para| B[DWES]
 ### Lola Macipe Mateo
 
 * {{<color_green>}}Formación y Orientación Laboral / Itinerario Pesonal para la profesionalidad 1{{</color_green>}} (LOE/LPF)
+  {{<line>}}
 
 <img src="images/lola_macipe.png"  alt="Horario de Lola Macipe"/>
 
@@ -218,7 +220,7 @@ I[Bases de datos] -->|es necesaria para| B[DWES]
 
 * {{<color_green>}}Inglés Profesional /Inglés{{</color_green>}} (LFP/LOE)
 * {{<color_green>}}Módulo profesional optativo: Inglés{{</color_green>}}
-  <br />
+  {{<line>}}
   <img src="images/anna_kopeykina.png"  alt="Horario de Anna Kopeikina"/>
 
 ---
@@ -226,13 +228,15 @@ I[Bases de datos] -->|es necesaria para| B[DWES]
 ### Oscar Alonso
 
 * {{<color_green>}}Itinerario Personal para la Empleabilidad II / Empresa e iniciativa emprendedora{{</color_green>}} (LPF/LOE)
-  <img src="images/oscar_alonso.png"  alt="Horario Óscar  Alonso "/>
+  {{<line>}}
+
+<img src="images/oscar_alonso.png"  alt="Horario Óscar  Alonso "/>
 
 ---
 
 ### Manuel Alejandro Romero Miguel
 
-* {{<color_blue>}}Desarrollo Web en entorno servidor{{</color_blue>}}
+* {{<color_green>}}Desarrollo Web en entorno servidor{{</color_green>}}
 {{<line>}}
  
  <img src="images/manuel.png"  alt="Primera evaluación "/>
